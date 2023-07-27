@@ -1,0 +1,74 @@
+
+
+/*exercize 2*/
+.nav-Link
+{
+text-decoration: none;
+color: orange;
+}
+
+/*exercize 3*/
+main
+{
+    max-width: 600px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;       
+}
+
+/*exercize 4*/
+section
+{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+/*p 
+{
+This is me playing around
+background-color: bisque;
+}*/
+
+/*exercize 5*/
+#title
+{
+    font-size: 40px;
+    font-weight: 800;
+}
+
+/*exercize 6*/
+.d-inline
+{
+    display: inline;
+}
+
+/*exercize 7*/
+nav > ul
+{
+    list-style: none;
+}
+
+
+/*exercize 8*/
+body {
+    background-color: #222;
+    color: #eee;
+}
+
+
+/*exercize 9*/
+#avatar
+{
+width: 100px;
+margin-top: 32px;
+margin-bottom: 32px;
+margin-left: auto;
+margin-right: auto; 
+}

@@ -9,14 +9,14 @@ slug: "/css-intro-exercise"
 
 Practice using CSS rulesets to add styles to web pages.
 
-## Exercise 1
+## Exercise 1 - Done
 
 Steps are to be completed in your root directory (`CSS_Exercise/`) and `index.html` file.
 
 1. Create a **new css file**, named `index.css`, in your project's _root directory_
 2. Create a **link** element nested in the `<head></head>` of your `index.html` file, that contains an **href** attribute with a value that links to your newly created external stylesheet (don't forget to add a **rel** attribute to describe the linked content as a stylesheet\*)
 
-## Exercise 2
+## Exercise 2- Done
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
@@ -25,7 +25,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **text color** of the `nav-link` elements to **orange**
 4. Create a **declaration** in your new ruleset that changes the **text decoration** of the `nav-link` elements to **none**, to remove the default underline for links.
 
-## Exercise 3
+## Exercise 3 -Done
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
@@ -34,7 +34,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 3. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `main` elements to **24px**, to center the `main` elements between the left and right edges of the page (or their containing element).
 4. Create a **declaration** in your new ruleset that changes the **margin left** and **margin right** of the `main` elements to **auto**, to center the `main` elements between the left and right edges of the page (or their containing element).
 
-## Exercise 4
+## Exercise 4 - Done
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
@@ -42,7 +42,7 @@ Steps are to be completed by writing css rulesets in your `index.css` file.
 2. Create a **declaration** in your new ruleset that changes the **margin top** and **margin bottom** of the `section` elements to **24px**, to center the `section` elements between the left and right edges of the page (or their containing element).
 3. Create a **declaration** in your new ruleset that changes the **padding left**, **padding right**, **padding top** and **padding bottom** of the `section` elements to **16px**, to give the `section` elements space between their content and border.
 
-## Exercise 5
+## Exercise 5 - Done
 
 Steps are to be completed by writing css rulesets in your `index.css` file.
 
